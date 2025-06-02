@@ -15,6 +15,7 @@ require (
 	github.com/swaggo/files v1.0.1
 	github.com/swaggo/gin-swagger v1.6.0
 	github.com/swaggo/swag v1.16.4
+	"github.com/Zhukov2sky/goland-forum/pkg/database"
 	go.uber.org/zap v1.27.0
 	modernc.org/sqlite v1.37.0
 )
